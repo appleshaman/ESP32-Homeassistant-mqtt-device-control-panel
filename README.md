@@ -25,3 +25,12 @@ Some functions run in different threads, and multithreading handling is not yet 
 - Web UI for easier device management (due to performance issues when adding devices directly on the ESP32)  
 
 Currently, the ESP32 struggles with rendering this display smoothly, even in the official examples, the CPU usage always jumps to a very high level, so for easier to use, a web-based UI will be implemented to improve the user experience in the future.  
+
+Some function display:
+![2](https://github.com/user-attachments/assets/ad285ac9-920d-4a61-be8a-a630e462d47e)
+![3](https://github.com/user-attachments/assets/98c97b06-e024-4cf2-963c-694670b820a0)
+![4](https://github.com/user-attachments/assets/bfd4e253-61da-4533-8ec2-e5bd36ed43fc)
+
+- Controlling the brightness via the panel
+https://github.com/user-attachments/assets/7ba256d1-464b-407f-8faf-5540236846f7
+
